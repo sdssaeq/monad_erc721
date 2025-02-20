@@ -1,4 +1,4 @@
-# Simple NFT Contract Address on Monad Testnet
+# Simple NFT Contract on Monad Testnet
 ## Note
 - Dont Forget to change token name and symbol & your signer address / owner address on ignition/modules/Monaime.ts
 ## OR
