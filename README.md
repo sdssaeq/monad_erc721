@@ -29,6 +29,6 @@ const config: HardhatUserConfig = {
 export default config;
 ```
 # Commands
--npx hardhat vars set PRIVATE_KEY
--npx hardhat ignition deploy ./ignition/modules/Monaime.ts --network monadTestnet
--npx hardhat verify <contractAddress> --network monadTestnet
+- npx hardhat vars set PRIVATE_KEY
+- npx hardhat ignition deploy ./ignition/modules/Monaime.ts --network monadTestnet
+- npx hardhat verify <contractAddress> --network monadTestnet
